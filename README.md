@@ -1,6 +1,6 @@
-# Web3 Decentralized Application
+# Web3 Front-End Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It relies on a local [Ganache](https://trufflesuite.com/ganache/)
+This decentralized web application was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It relies on a local [Ganache](https://trufflesuite.com/ganache/)
 blockchain to demonstrate basic [Web3](https://web3js.readthedocs.io/en/v1.7.4/) library calls to a smart contract. The contract, Election.sol, takes in an array of
 candidate names and assigns them as a struct with a set number of votes. Accounts can then call a vote function only once to cast their vote in the election.
 
