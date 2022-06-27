@@ -21,6 +21,8 @@ Account 0 tries to vote again (Gets error due to already having voted)
 
 ### References
 
-[web3.js - Ethereum JavaScript AP](https://web3js.readthedocs.io/en/v1.7.4/)
+[web3.js - Ethereum JavaScript API](https://web3js.readthedocs.io/en/v1.7.4/)
+
 [How to Build a Decentralized Full Stack App in Ethereum and React](https://medium.com/@takleakshar/how-to-build-a-decentralized-full-stack-app-in-ethereum-and-react-42e63d45a208)
+
 [Build a Real-World dApp With React, Solidity, and Web3.js](https://betterprogramming.pub/blockchain-introduction-using-real-world-dapp-react-solidity-web3-js-546471419955)
