@@ -1,0 +1,45 @@
+.wrapper {
+  min-height: 10vh;
+  min-width: 10vw;
+  color: black;
+  padding: 2em;
+  background-color: white;
+  box-shadow: 0 0 0 1px rgb(0 0 0 / 4%), 0 2px 4px 0 rgb(0 0 0 / 8%);
+}
+.wrapper ul {
+  margin: 0;
+  padding: 0;
+}
+.wrapper li {
+  list-style-type: none;
+  text-align: left;
+  padding-bottom: 25px;
+  border-bottom: 1px dashed grey;
+}
+.wrapper h4 {
+  font-weight: 300;
+  margin-bottom: 0.5em;
+}
+.wrapper li span {
+  font-size: 0.75em;
+  letter-spacing: 2px;
+  color: grey;
+}
+.wrapper button {
+  float: right;
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #415071;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+}
+.wrapper button:hover {
+  background-color: lightblue;
+  cursor: pointer;
+}
+.header {
+  letter-spacing: 2px;
+}
+.header span { 
+  color: darkgrey;
+}
